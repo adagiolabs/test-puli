@@ -1,4 +1,6 @@
 {
     "name": "adagio/test-puli",
-    "require": {}
+    "require": {},
+    "description": "Dumb test for puli",
+    "license": ["MIT"]
 }
